@@ -17,5 +17,5 @@ Sou estudante de **Bacharelado em Sistemas de Informação** no IFNMG Campus Jan
 - Explorando o uso de **Node.js** para desenvolvimento web
 
 ## 📫 Entre em contato:
-- **LinkedIn:** https://www.linkedin.com/in/rafael-lima-854053235/
+- **LinkedIn:** https://www.linkedin.com/in/rafaguedes
 - **Email:** rafaguedes003@gmail.com
