@@ -1,16 +1,21 @@
-## Hi there 👋
+# 👋 Olá! Eu sou o Rafael
 
-<!--
-**rafaguedes03/rafaguedes03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou estudante de **Bacharelado em Sistemas de Informação** no IFNMG Campus Januária, atualmente no 5º período, com grande interesse e paixão por desenvolvimento e bancos de dados.
 
-Here are some ideas to get you started:
+## 🚀 Minhas Habilidades:
+- **Linguagens de programação:** JavaScript, HTML, CSS, C
+- **Frameworks & Bibliotecas:** Bootstrap, Sass
+- **Banco de Dados:** MySQL (Minha maior afinidade)
+- **Ferramentas:** MySQL Workbench, Git
+- **Conceitos:** Estruturas de Dados, Algoritmos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎓 Formação:
+- **Bacharelado em Sistemas de Informação** (BSI) - IFNMG Campus Januária (Início em 2022)
+
+## 🌱 O que estou estudando agora:
+- Melhorando minhas habilidades em **MySQL** e **desenvolvimento back-end**
+- Explorando o uso de **Node.js** para desenvolvimento web
+
+## 📫 Entre em contato:
+- **LinkedIn:** https://www.linkedin.com/in/rafael-lima-854053235/
+- **Email:** rafaguedes003@gmail.com
