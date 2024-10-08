@@ -3,7 +3,7 @@
 Sou estudante de **Bacharelado em Sistemas de Informação** no IFNMG Campus Januária, atualmente no 5º período, com grande interesse e paixão por desenvolvimento e bancos de dados.
 
 ## 🚀 Minhas Habilidades:
-- **Linguagens de programação:** JavaScript, HTML, CSS, C
+- **Linguagens:** JavaScript, HTML, CSS, C
 - **Frameworks & Bibliotecas:** Bootstrap, Sass
 - **Banco de Dados:** MySQL (Minha maior afinidade)
 - **Ferramentas:** MySQL Workbench, Git
